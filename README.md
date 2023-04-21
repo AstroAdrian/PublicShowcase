@@ -2,7 +2,7 @@
 Public repository showcasing some of Adrian's work. 
 <br/>
 ## Data Science
-<table style="font-size:small">
+<table>
   <tr>
     <td>Credit Card Fraud Detection</td>
     <td>20-Feb-23</td>
